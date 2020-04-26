@@ -1,0 +1,20 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rishi",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.1.0",
+    "cool-ascii-faces": "^1.3.4",
+    "discord-youtube-api": "^0.1.0",
+    "discord.js": "^12.1.1",
+    "ffmpeg-static": "^4.1.0",
+    "got": "^10.7.0",
+    "ytdl-core": "^2.0.1"
+  }
+}
